@@ -1,5 +1,5 @@
 ## Chaos-ODDGI
-The code related to the paper below：Dynamic Community Detection Over Evolving Networks based on the Optimized Deep Graph Infomax
+The code related to the paper below：Dynamic Community Detection Over Evolving Networks based on the Optimized Deep Graph Infomax.
 
 ## Run
 
